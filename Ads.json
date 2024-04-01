@@ -1,1 +1,23 @@
-[]
+[
+   {
+      "Logo":"https://banner2.cleanpng.com/20180613/ty/kisspng-word-drawing-clip-art-sample-ballot-5b20b6f0404497.8112919115288706402633.jpg",
+      "LogoMargin":"0,0,0,0",
+      "Stretch":"Fill",
+      "LogoBackColor":"transparent",
+      "Height":285,
+      "BorderColor":"#D3D3D3",
+      "BackColor":"white",
+      "Tags":"marketing,digital,advertisement",
+      "Title":"Your Ad Title Here",
+      "TitleForeColor":"#000000",
+      "Description":"This is an example advertisement description.",
+      "DescForeColor":"#666666",
+      "AddressContent":"This is sample address content.",
+      "Geometry":"M10 20 C 20 20, 40 20, 50 10",
+      "GeometryWidth":12,
+      "GeometryHeight":12,
+      "AddressForeColor":"#333333",
+      "AddressBackBolor":"#F0F0F0",
+      "Address":"https://t.me/SilverBullet_Soft"
+   }
+]
